@@ -128,7 +128,7 @@
                                 <td>{{liga.fin | date:'fullDate'}} </td>
                                 <td>
                                     <a href="user.html"><i class="glyphicon glyphicon-pencil"></i></a>
-                                    <a href="#myModal" role="button" data-toggle="modal"><i class="glyphicon glyphicon-remove"></i></a>
+                                    <a href="#myModal" ng-click="deleteLeague(liga.nombre)" role="button" data-toggle="modal"><i class="glyphicon glyphicon-remove"></i></a>
                                 </td>
                             </tr>
                         </tbody>

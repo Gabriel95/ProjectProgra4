@@ -232,6 +232,13 @@ angular.module('app.controllers', [])
             $scope.land = "";
             $scope.ident = "";
         };
+
+        $scope.deleteLeague = function (name) {
+            for (var i = 0; i < $scope.ligas.length; i++) {
+                if ($scope.ligas[i].nombre === name)
+                    $scope.ligas.splice(i, 1);
+            }
+        }
     }])
 
       // Path: /league
