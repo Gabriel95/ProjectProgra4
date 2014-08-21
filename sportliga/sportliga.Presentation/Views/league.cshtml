@@ -1,0 +1,131 @@
+﻿<div class="panel-body">
+    <h2>Equipos</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>
+                    <a href="" ng-click="ordenarPor('nombre')">
+                        Nombre/s
+                    </a>
+                    <span class="caret" style="cursor: pointer" ng-click="ordenarPor('-nombre')"></span>
+                </th>
+                <th style="width: 50px;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="team in FilterTeams">
+                <td>{{team.nombre}}</td>
+                <td>{{team.id_liga}}</td>
+                <td>
+                    <a href="" ng-click="editTeam(team.nombre)"><i class=" glyphicon glyphicon-pencil"></i></a>
+                    <a href="" ng-click="deleteTeam(team.nombre)"><i class="glyphicon glyphicon-remove"></i></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Partidos De Esta Liga</h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Contendientes</th>
+                <th>Resultado</th>
+                <th style="width: 50px;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="match in matches">
+                <td>{{match.id}}</td>
+                <td>{{match.nombre1}} VS {{match.nombre2}}</td>
+                <td>{{match.resultado}}</td>
+                <td>
+                    <button class="btn btn-primary" type="button" ng-click="activateResul(match.nombre1,match.nombre2)">Establecer</button>
+                    <a href="" ng-click="activateMatchEdit(match.nombre1,match.nombre2)"><i class="glyphicon glyphicon-pencil"></i></a>
+                    <a href=""><i class="glyphicon glyphicon-remove"></i></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="btn-toolbar">
+        <button class="btn btn-primary" type="button" ng-click="activate()">Nuevo Partido</button>
+        <button class="btn btn-primary" type="button" ng-click="activateNewTeam()">Nuevo Equipo</button>
+    </div>
+    <div class="row" ng-show="addingTeam">
+        <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="addNewTeam()">
+            <h2 class="text-center">Nuevo Equipo</h2>
+            <div class="form-box">
+                <div class="form-group">
+                    <input ng-model="NombreEquipo" type="text" class="form-control" placeholder="Nombre de Equipo" required />
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-primary btn-block" type="submit" ng-disabled="!(NombreEquipo)" disabled>Agregar</button>
+                    <button class="btn btn-primary btn-block" type="button" ng-click="cancelTeam()">Cancelar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="row" ng-show="isEditing">
+        <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="FinishEditing()">
+            <h2 class="text-center">Editar Equipo</h2>
+            <div class="form-box">
+                <div class="form-group">
+                    <input ng-model="NuevoNombre" type="text" class="form-control" placeholder="Nombre de Equipo" required />
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-primary btn-block" type="submit">Guardar</button>
+                    <button class="btn btn-primary btn-block" type="button" ng-click="cancelEdit()">Cancelar</button>   
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <div class="row" ng-show="addingMatch">
+        <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="addMatch()">
+            <h2 class="text-center">Agregar Nuevo Partido</h2>
+            <div class="form-box">
+                <div class="form-group">
+                    <input ng-model="name1" type="text" class="form-control" placeholder="Nombre de Equipo 1" required />
+                    <input ng-model="name2" type="text" class="form-control" placeholder="Nombre de Equipo 2" required />
+                </div>
+                <div class="form-group">
+                    <button class="btn btn-primary btn-block" type="submit">Guardar</button>
+                    <button class="btn btn-primary btn-block" type="button" ng-click="cancelMatch()">Cancelar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="row" ng-show="editResul">
+    <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="addResultado()">
+        <h2 class="text-center">Editar Marcador</h2>
+        <div class="form-box">
+            <div class="form-group">
+                <input ng-model="neuesResult" type="text" class="form-control" placeholder="0-0" required />
+            </div>
+            <div class="form-group">
+                <button class="btn btn-primary btn-block" type="submit">Guardar</button>
+                <button class="btn btn-primary btn-block" type="button" ng-click="cancelResultado()">Cancelar</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<div class="row" ng-show="isEditingMatch">
+    <form class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4" ng-submit="finishMEdit()">
+        <h2 class="text-center">Editar Marcador</h2>
+        <div class="form-box">
+            <div class="form-group">
+                <input ng-model="prenom3" type="text" class="form-control" placeholder="Equipo 1" required />
+                <input ng-model="prenom4" type="text" class="form-control" placeholder="Equipo 2" required />
+            </div>
+            <div class="form-group">
+                <button class="btn btn-primary btn-block" type="submit">Guardar</button>
+                <button class="btn btn-primary btn-block" type="button" ng-click="cancelMatch()">Cancelar</button>
+            </div>
+        </div>
+    </form>
+</div>

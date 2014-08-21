@@ -1,0 +1,82 @@
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\App.sportliga.Presentation.dll.config
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\App.sportliga.Presentation.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\App.sportliga.Presentation.pdb
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Owin.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Helpers.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Optimization.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Razor.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\WebGrease.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Helpers.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Optimization.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Razor.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\sportliga.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\App.sportliga.Presentation.Properties.Resources.resources
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\sportliga.Presentation.csproj.GenerateResource.Cache
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\App.sportliga.Presentation.dll
+C:\Users\carlosa\Desktop\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\App.sportliga.Presentation.pdb
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\App.sportliga.Presentation.dll.config
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\App.sportliga.Presentation.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\App.sportliga.Presentation.pdb
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Antlr3.Runtime.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Owin.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Helpers.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Optimization.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Razor.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.Razor.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\WebGrease.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Antlr3.Runtime.pdb
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Helpers.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Optimization.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.Razor.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\bin\System.Web.WebPages.Razor.xml
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\sportliga.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\App.sportliga.Presentation.Properties.Resources.resources
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\sportliga.Presentation.csproj.GenerateResource.Cache
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\App.sportliga.Presentation.dll
+C:\Users\Jesus Paz\Desktop\Adolf Hitler\proyectoprogra4-master\sportliga\sportliga.Presentation\obj\Debug\App.sportliga.Presentation.pdb
