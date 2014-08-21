@@ -269,6 +269,7 @@ angular.module('app.controllers', [])
             $scope.name2 = "";
         }
 
+
         $scope.teams = [{nombre: 'Levante', id_liga: 1},{nombre: 'Barcelona', id_liga: 1},{nombre: 'Madrid', id_liga: 1},{nombre: 'Liverpool', id_liga: 3},{nombre: 'Manchester', id_liga:3},
         {nombre: 'Chelsea', id_liga: 3},{nombre: 'Genova', id_liga: 2},{ nombre: 'Cagliari', id_liga: 2 }, { nombre: 'Inter', id_liga: 2 }, { nombre: 'Monaco', id_liga: 4 }, { nombre: 'Paris', id_liga: 4 },
         { nombre: 'France', id_liga: 4 }, { nombre: 'Shangai', id_liga: 5 }, { nombre: 'Sheck', id_liga: 5 }, { nombre: 'Chou', id_liga: 5 }];
@@ -413,6 +414,13 @@ angular.module('app.controllers', [])
             $scope.prenom2 = "";
             $scope.prenom3 = "";
             $scope.prenom4 = "";
+        }
+
+        $scope.deleteMatch = function (name1,name2) {
+            for (var i = 0; i < $scope.matches.length; i++) {
+                if ($scope.matches[i].nombre1 === name1 && $scope.matches[i].nombre2 === name2)
+                    $scope.matches.splice(i, 1);
+            }
         }
     }])
 
